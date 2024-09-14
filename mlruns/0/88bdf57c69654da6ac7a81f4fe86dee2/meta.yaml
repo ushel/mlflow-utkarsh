@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/ML/mlruns/0/88bdf57c69654da6ac7a81f4fe86dee2/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 88bdf57c69654da6ac7a81f4fe86dee2
+run_name: righteous-fish-296
+run_uuid: 88bdf57c69654da6ac7a81f4fe86dee2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726337975734
+status: 1
+tags: []
+user_id: Utkarsh
